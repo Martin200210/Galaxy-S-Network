@@ -1,2 +1,0 @@
-# Galaxy-S-Network
-Teszt
